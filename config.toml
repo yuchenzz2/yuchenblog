@@ -1,4 +1,4 @@
-baseURL = " http://yuchenzz2.github.io/yuchenblog/"
+baseURL = "http://yuchenzz2.github.io/yuchenblog/"
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
 title = "YuChenBolg"
